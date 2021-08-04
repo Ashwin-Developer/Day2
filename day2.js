@@ -1,4 +1,4 @@
-//1st assignment
+//Reverse indexing in js
 
 a = ["Ironman","Captain America","Hulk","Thor","Loki"];
 i=4;
@@ -10,7 +10,7 @@ while(i<=4){
   }
 }
 
-//2nd assignment
+//Taking multiple of 5
 
 for(i=0;i<=50;i++){
   
