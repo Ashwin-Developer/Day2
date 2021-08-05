@@ -2,7 +2,7 @@
 
 a = ["Ironman","Captain America","Hulk","Thor","Loki"];
 i=4;
-while(i<=4){
+while(i<=a.length){
   console.log(a[i]);
   i = i-1;
   if(i<0){
